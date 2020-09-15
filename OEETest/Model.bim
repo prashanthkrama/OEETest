@@ -159,11 +159,6 @@
             "sourceColumn": "Dim_Products.ItemTypeCode"
           },
           {
-            "name": "Dim_Products.KeyItemFlag",
-            "dataType": "string",
-            "sourceColumn": "Dim_Products.KeyItemFlag"
-          },
-          {
             "name": "Dim_Products.LastChangeDate",
             "dataType": "string",
             "sourceColumn": "Dim_Products.LastChangeDate"
