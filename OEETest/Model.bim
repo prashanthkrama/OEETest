@@ -201,6 +201,12 @@
               ]
             }
           }
+        ],
+        "measures": [
+          {
+            "name": "Measure 1",
+            "expression": "COUNT(Envision_DIM_Product[Dim_Products.Brand])"
+          }
         ]
       },
       {
