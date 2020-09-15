@@ -134,11 +134,6 @@
             "sourceColumn": "Dim_Products.Franchise"
           },
           {
-            "name": "Dim_Products.Global PLC",
-            "dataType": "string",
-            "sourceColumn": "Dim_Products.Global PLC"
-          },
-          {
             "name": "Dim_Products.Item Owner",
             "dataType": "string",
             "sourceColumn": "Dim_Products.Item Owner"
